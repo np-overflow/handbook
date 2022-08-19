@@ -9,6 +9,7 @@ const defaultSidebar = [
     items: [
       {text: 'What is this?', link: '/introduction/'},
       {text: 'Getting started', link: '/introduction/get-started'},
+      {text: 'Roles', link: '/introduction/roles'},
     ]
   },
   {
