@@ -5,3 +5,7 @@
   --vp-c-brand-dark: var(--vp-c-yellow-dark);
   --vp-c-brand-darker: var(--vp-c-yellow-darker);
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
