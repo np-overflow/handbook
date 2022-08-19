@@ -1,0 +1,28 @@
+{
+  "name": "handbook",
+  "version": "1.0.0",
+  "description": "Overflow handbook",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "serve": "vitepress serve"
+  },
+  "keywords": [
+    "overflow",
+    "handbook"
+  ],
+  "author": "Qin Guan",
+  "license": "MIT",
+  "devDependencies": {
+    "unocss": "^0.45.8",
+    "vite": "^3.0.8",
+    "vitepress": "1.0.0-alpha.8"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ]
+    }
+  }
+}
