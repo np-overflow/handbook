@@ -64,7 +64,7 @@ export default defineConfig({
     ]
   },
   themeConfig: {
-    logo: 'assets/logo.svg',
+    logo: '/logo.svg',
     siteTitle: 'Overflow Handbook',
     nav: [
       {text: 'Home', link: '/'},
