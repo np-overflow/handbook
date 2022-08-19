@@ -3,6 +3,43 @@ import UnoCSS from 'unocss/vite'
 
 import { presetTagify, presetWind, transformerVariantGroup } from 'unocss'
 
+const defaultSidebar = [
+  {
+    text: 'Introduction',
+    items: [
+      {text: 'What is this?', link: '/introduction/'},
+      {text: 'Getting started', link: '/introduction/get-started'},
+    ]
+  },
+  {
+    text: 'Sessions',
+    items: [
+      {text: 'General Workflow', link: '/sessions/'},
+      {text: 'Pre-session Admin', link: '/sessions/pre-session-admin'},
+      {text: 'Research', link: '/sessions/research'},
+      {text: 'Slides', link: '/sessions/slides'},
+      {text: 'Post-session Wrap-up', link: '/sessions/post-session-wrap-up'},
+    ]
+  },
+  {
+    text: 'Events',
+    items: [
+      {text: 'CCA Fiesta', link: '/events/cca-fiesta'},
+      {text: 'Welcome Party', link: '/events/welcome-party'},
+      {text: 'ByteHackz', link: '/events/bytehackz'},
+      {text: 'PIOI', link: '/events/pioi'},
+      {text: 'Bootcamps', link: '/events/bootcamps'},
+    ]
+  },
+  {
+    text: 'Admin',
+    items: [
+      {text: 'Pre-sem Committee Meet-up', link: '/admin/pre-sem-meet-up'},
+      {text: 'Interviews', link: '/admin/interviews'},
+    ]
+  },
+]
+
 export default defineConfig({
   srcDir: 'src',
   title: 'Overflow Handbook',
@@ -33,43 +70,6 @@ export default defineConfig({
       {text: 'Home', link: '/'},
       {text: 'Contact', link: 'https://next.np-overflow.club'}
     ],
-    sidebar: {
-      '/get-started': [
-        {
-          text: 'Introduction',
-          items: [
-            {text: 'What is this?', link: ''},
-            {text: 'Getting started', link: ''},
-          ]
-        },
-        {
-          text: 'Sessions',
-          items: [
-            {text: 'General Workflow', link: ''},
-            {text: 'Pre-session Admin', link: ''},
-            {text: 'Research', link: ''},
-            {text: 'Slides', link: ''},
-            {text: 'Post-session Wrap-up', link: ''},
-          ]
-        },
-        {
-          text: 'Events',
-          items: [
-            {text: 'CCA Fiesta', link: ''},
-            {text: 'Welcome Party', link: ''},
-            {text: 'ByteHackz', link: ''},
-            {text: 'PIOI', link: ''},
-            {text: 'Bootcamps', link: ''},
-          ]
-        },
-        {
-          text: 'Admin',
-          items: [
-            {text: 'Pre-sem Committee Meet-up', link: ''},
-            {text: 'Interviews', link: ''},
-          ]
-        },
-      ]
-    }
+    sidebar: defaultSidebar
   },
 })
