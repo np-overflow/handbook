@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /get-started
+      link: /introduction/
     - theme: alt
       text: View on GitHub 
       link: https://github.com/np-overflow/handbook
