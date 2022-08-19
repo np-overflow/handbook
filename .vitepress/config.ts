@@ -14,11 +14,11 @@ const defaultSidebar = [
   {
     text: 'Sessions',
     items: [
-      {text: 'General Workflow', link: '/sessions/'},
-      {text: 'Pre-session Admin', link: '/sessions/pre-session-admin'},
+      {text: 'General workflow', link: '/sessions/'},
+      {text: 'Pre-session admin', link: '/sessions/pre-session-admin'},
       {text: 'Research', link: '/sessions/research'},
       {text: 'Slides', link: '/sessions/slides'},
-      {text: 'Post-session Wrap-up', link: '/sessions/post-session-wrap-up'},
+      {text: 'Post-session wrap-up', link: '/sessions/post-session-wrap-up'},
     ]
   },
   {
@@ -34,7 +34,7 @@ const defaultSidebar = [
   {
     text: 'Admin',
     items: [
-      {text: 'Pre-sem Committee Meet-up', link: '/admin/pre-sem-meet-up'},
+      {text: 'Pre-sem committee meet-up', link: '/admin/pre-sem-meet-up'},
       {text: 'Interviews', link: '/admin/interviews'},
     ]
   },
