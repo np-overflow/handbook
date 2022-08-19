@@ -1,1 +1,1 @@
-# Pre-semester Committee meet ups
+# Pre-semester committee meet ups

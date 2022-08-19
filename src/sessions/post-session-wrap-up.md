@@ -1,1 +1,1 @@
-# Post Session Wrap Up
+# Post-session wrap up
