@@ -7,38 +7,47 @@ const defaultSidebar = [
   {
     text: 'Introduction',
     items: [
-      {text: 'What is this?', link: '/introduction/'},
-      {text: 'Roles', link: '/introduction/roles'},
+      { text: 'What is this?', link: '/introduction/' },
+      { text: 'Roles', link: '/introduction/roles' },
     ]
   },
   {
     text: 'Sessions',
     items: [
-      {text: 'General workflow', link: '/sessions/'},
-      {text: 'Pre-session admin', link: '/sessions/pre-session-admin'},
-      {text: 'Research', link: '/sessions/research'},
-      {text: 'Slides', link: '/sessions/slides'},
-      {text: 'Post-session wrap-up', link: '/sessions/post-session-wrap-up'},
+      { text: 'General workflow', link: '/sessions/general-workflow' },
+      { text: 'Pre-session admin', link: '/sessions/pre-session-admin' },
+      { text: 'Research', link: '/sessions/research' },
+      { text: 'Slides', link: '/sessions/slides' },
+      { text: 'Post-session wrap-up', link: '/sessions/post-session-wrap-up' },
     ]
   },
   {
     text: 'Events',
     items: [
-      {text: 'CCA Fiesta', link: '/events/cca-fiesta'},
-      {text: 'Welcome Party', link: '/events/welcome-party'},
-      {text: 'ByteHackz', link: '/events/bytehackz'},
-      {text: 'PIOI', link: '/events/pioi'},
-      {text: 'Bootcamps', link: '/events/bootcamps'},
+      { text: 'CCA Fiesta', link: '/events/cca-fiesta' },
+      { text: 'Welcome Party', link: '/events/welcome-party' },
+      { text: 'ByteHackz', link: '/events/bytehackz' },
+      { text: 'PIOI', link: '/events/pioi' },
+      { text: 'Bootcamps', link: '/events/bootcamps' },
     ]
   },
   {
     text: 'Admin',
     items: [
-      {text: 'Pre-sem committee meet-up', link: '/admin/pre-sem-meet-up'},
-      {text: 'Interviews', link: '/admin/interviews'},
-      {text: 'Joining Overflow', link: '/admin/join'},
+      { text: 'Pre-sem committee meet-up', link: '/admin/pre-sem-meet-up' },
+      { text: 'Interviews', link: '/admin/interviews' },
+      { text: 'Joining Overflow', link: '/admin/join' },
     ]
   },
+]
+
+const proposalsSidebar = [
+  {
+    text: 'Proposals',
+    items: [
+      { text: 'Moving to Discord', link: '/proposals/discord' },
+    ]
+  }
 ]
 
 export default defineConfig({
@@ -68,9 +77,13 @@ export default defineConfig({
     logo: '/logo.svg',
     siteTitle: 'Overflow Handbook',
     nav: [
-      {text: 'Home', link: '/'},
-      {text: 'Contact', link: 'https://next.np-overflow.club'}
+      { text: 'Docs', link: '/introduction/' },
+      { text: 'Proposals', link: '/proposals/' },
+      { text: 'Contact', link: 'https://next.np-overflow.club' }
     ],
-    sidebar: defaultSidebar
+    sidebar: {
+      '/proposals': proposalsSidebar,
+      '/': defaultSidebar,
+    }
   },
 })
