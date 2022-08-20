@@ -1,4 +1,7 @@
 # Roles
+
+The Overflow EXCO has a largely flat hierarchy. Everyone is encouraged to contribute new ideas, and work together. 
+
 ## Table of Contents
 
 [[toc]]
