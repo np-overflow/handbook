@@ -8,7 +8,6 @@ const defaultSidebar = [
     text: 'Introduction',
     items: [
       {text: 'What is this?', link: '/introduction/'},
-      {text: 'Getting started', link: '/introduction/get-started'},
       {text: 'Roles', link: '/introduction/roles'},
     ]
   },
@@ -37,6 +36,7 @@ const defaultSidebar = [
     items: [
       {text: 'Pre-sem committee meet-up', link: '/admin/pre-sem-meet-up'},
       {text: 'Interviews', link: '/admin/interviews'},
+      {text: 'Joining Overflow', link: '/admin/join'},
     ]
   },
 ]
