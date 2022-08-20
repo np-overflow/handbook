@@ -53,7 +53,10 @@ const proposalsSidebar = [
 
 export default defineConfig({
   srcDir: 'src',
+  lang: 'en-US',
   title: 'Overflow Handbook',
+  description: 'Overflow Handbook',
+  cleanUrls: 'with-subfolders',
   vite: {
     plugins: [
       UnoCSS({
