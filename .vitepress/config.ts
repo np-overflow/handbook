@@ -34,9 +34,10 @@ const defaultSidebar = [
   {
     text: 'Admin',
     items: [
-      { text: 'Pre-sem committee meet-up', link: '/admin/pre-sem-meet-up' },
+      { text: 'Resources', link: '/admin/resources' },
+      { text: 'Pre-semester committee meet-ups', link: '/admin/pre-sem-meet-ups' },
       { text: 'Interviews', link: '/admin/interviews' },
-      { text: 'Joining Overflow', link: '/admin/join' },
+      { text: 'Joining Overflow', link: '/admin/joining-overflow' },
     ]
   },
 ]
@@ -76,6 +77,9 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.svg',
     siteTitle: 'Overflow Handbook',
+    editLink: {
+      pattern: 'https://github.com/np-overflow/handbook/edit/main/src/:path'
+    },
     nav: [
       { text: 'Docs', link: '/introduction/' },
       { text: 'Proposals', link: '/proposals/' },
