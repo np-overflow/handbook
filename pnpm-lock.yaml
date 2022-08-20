@@ -3,12 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   unocss: ^0.45.8
   vite: ^3.0.8
-  vitepress: 1.0.0-alpha.8
+  vitepress: 1.0.0-alpha.9
 
 devDependencies:
   unocss: 0.45.8_vite@3.0.8
   vite: 3.0.8
-  vitepress: 1.0.0-alpha.8
+  vitepress: 1.0.0-alpha.9
 
 packages:
 
@@ -1379,8 +1379,8 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /vitepress/1.0.0-alpha.8:
-    resolution: {integrity: sha512-kTRN5DCagvMqr9OjylSV9/waGg0IHrxL0hBVuJoz7ykleZq2qR02n5CaiFq5QrSB/VRBGqiVsFQzet9vJsXS8g==}
+  /vitepress/1.0.0-alpha.9:
+    resolution: {integrity: sha512-+VxgjflIcssbuyUBRYjZRpQ8w25v6XnIbXFmm9qwLVaqZdC0rN6qViEp7oRwA3HUlrGxj7GEzqQjW7xj4+E83w==}
     hasBin: true
     dependencies:
       '@docsearch/css': 3.2.1

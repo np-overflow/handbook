@@ -16,7 +16,7 @@
   "devDependencies": {
     "unocss": "^0.45.8",
     "vite": "^3.0.8",
-    "vitepress": "1.0.0-alpha.8"
+    "vitepress": "1.0.0-alpha.9"
   },
   "pnpm": {
     "peerDependencyRules": {
