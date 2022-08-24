@@ -46,6 +46,7 @@ const proposalsSidebar = [
   {
     text: 'Proposals',
     items: [
+      { text: 'An open SIG', link: '/proposals/open' },
       { text: 'Moving to Discord', link: '/proposals/discord' },
     ]
   }
