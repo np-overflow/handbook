@@ -46,6 +46,7 @@ const proposalsSidebar = [
   {
     text: 'Proposals',
     items: [
+      { text: 'Get started', link: '/proposals/' },
       { text: 'An open SIG', link: '/proposals/open' },
       { text: 'Moving to Discord', link: '/proposals/discord' },
     ]
@@ -57,7 +58,6 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Overflow Handbook',
   description: 'Overflow Handbook',
-  cleanUrls: 'with-subfolders',
   vite: {
     plugins: [
       UnoCSS({
