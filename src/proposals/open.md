@@ -22,7 +22,7 @@ Currently, the way of documenting anything in Overflow is to chuck it somewhere 
 
 There is no standard way of knowledge sharing, at best it would be condensed into a document, at worse it's in someones head.
 
-From a continuity standpoint, this is not great. Any knowledge gained is simply goes with the Overflow EXCO member, and the next generation has little to gain. With obscure documents hidden everywhere in storage, many points are repeated across years.
+From a continuity standpoint, this is not great. Any knowledge gained simply goes with the Overflow EXCO member when they step down, and the next generation has little to gain. With obscure documents hidden everywhere in storage, many points are repeated across years.
 
 ## Recommendation
 
