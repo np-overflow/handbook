@@ -16,7 +16,7 @@ I find knowledge sharing in Overflow is lacking. A lot of processes, tips, SOPs,
 
 ## Background
 
-Currently, the way of documenting anything in Overflow is to chuck it somewhere in a Drive folder. Of course, this is the simplest and most convenient way to go about things, but perhaps not the best.
+Currently, the way of documenting anything in Overflow is to chuck it somewhere in a Drive folder. This is the simplest and most convenient way to go about things, but perhaps not the best.
 
 ## Assessment
 
