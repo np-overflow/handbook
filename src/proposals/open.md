@@ -28,7 +28,7 @@ From a continuity standpoint, this is not great. Any knowledge gained simply goe
 
 This document you're reading, of course. A simple, and well organized repository that makes information accessible to **everyone**. Dubbed the Handbook, it is heavily inspired by the GitLab Handbook. GitLab is a fully remote company, and has had great success working remotely.
 
-At GitLab, they saw some benefits listed [here](https://about.gitlab.com/handbook/about/), or in the list below for the ones relevant to us if you don't want to read the entire article:
+At GitLab, they saw some benefits listed [here](https://about.gitlab.com/handbook/about/), or in the list below for the ones relevant to us:
 
 * Reading is much faster than listening
 * Reading is **async**, you don't have to interrupt someone or wait for them to become available
