@@ -24,5 +24,8 @@
         "@algolia/client-search"
       ]
     }
+  },
+  "dependencies": {
+    "vue": "^3.2.37"
   }
 }

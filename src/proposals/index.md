@@ -1,3 +1,3 @@
 # Proposals
 
-Here lies the proposals.
+Proposals are recommended to follow the SBAR format (Situation, Background, Assessment, Recommendation).
