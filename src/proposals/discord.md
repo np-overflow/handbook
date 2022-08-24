@@ -17,7 +17,7 @@ There are too many WhatsApp chats - one is created for every batch and the maint
 * Workshop announcements need to be sent to at least 3 chats
 * It is hard to keep track of alumni, or even members
 
-In giant WhatsApp chats such as ours (i.e. > 100 members), people generally don't talk and treat it as an "announcement" chat. **This is not helpful** in our efforts to increase member engagement. We want to have members that are actively participating in Overflow, but we have to provide them the platform.
+In giant WhatsApp chats such as ours (i.e. > 100 members), people generally don't talk and treat it as an "announcement" chat.
 
 ## Background
 
@@ -26,6 +26,8 @@ The reasons for having numerous WhatsApp chats is largely historical. For a good
 ## Assessment
 
 WhatsApp is no longer a great platform for engaging with the Overflow community. Competitors like Telegram and Discord have continuously added new features like polls, bots, automation, that simply is not possible to do in a WhatsApp chat.
+
+This, combined with the fact that members rarely use the chats, **is not helpful** in our efforts to increase member engagement. We want to have members that are actively participating in Overflow, but we have to provide them the platform.
 
 ## Recommendation
 
