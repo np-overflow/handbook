@@ -30,4 +30,4 @@ contributors:
 ## Recommendation
 ```
 
-If a proposal is approved, the driver has the responsibility to implement it. 
+If a proposal is approved, the driver has the responsibility to implement it.
