@@ -26,7 +26,7 @@
     }
   },
   "dependencies": {
-    "@giscus/vue": "^2.2.0",
+    "giscus": "^1.2.0",
     "vue": "^3.2.37"
   }
 }

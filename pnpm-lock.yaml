@@ -1,14 +1,14 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@giscus/vue': ^2.2.0
+  giscus: ^1.2.0
   unocss: ^0.45.8
   vite: ^3.0.8
   vitepress: 1.0.0-alpha.10
   vue: ^3.2.37
 
 dependencies:
-  '@giscus/vue': 2.2.0_vue@3.2.37
+  giscus: 1.2.0
   vue: 3.2.37
 
 devDependencies:
@@ -219,15 +219,6 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
-
-  /@giscus/vue/2.2.0_vue@3.2.37:
-    resolution: {integrity: sha512-vK0QVAjaN5s3FtC1ENZ7678TDP7KZSyeAgUKdkcU1o3S6VfHwajf2LQpqJudmK8qXaRH3nUMJoyd7YNSq3wTzA==}
-    peerDependencies:
-      vue: '>=3.2.0'
-    dependencies:
-      giscus: 1.2.0
-      vue: 3.2.37
-    dev: false
 
   /@iconify/types/1.1.0:
     resolution: {integrity: sha512-Jh0llaK2LRXQoYsorIH8maClebsnzTcve+7U3rQUSnC11X4jtPnFuyatqFLvMxZ8MLG8dB4zfHsbPfuvxluONw==}
