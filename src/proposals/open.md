@@ -26,7 +26,9 @@ From a continuity standpoint, this is not great. Any knowledge gained simply goe
 
 ## Recommendation
 
-This document you're reading, of course. A simple, and well organized repository that makes information accessible to **everyone**. Dubbed the Handbook, it is heavily inspired by the GitLab Handbook. GitLab is a fully remote company, and has had great success working remotely.
+A simple, and well organized repository that makes information accessible to **everyone**. It is heavily inspired by the Handbook that GitLab created.
+
+GitLab is a fully remote company, and has had great success working remotely.
 
 At GitLab, they saw some benefits listed [here](https://about.gitlab.com/handbook/about/), or in the list below for the ones relevant to us:
 

@@ -31,6 +31,6 @@ This, combined with the fact that members rarely use the chats, **is not helpful
 
 ## Recommendation
 
-It is prime time to move to Discord. I recommend using Discord as the official platform for all things Overflow.
+I recommend using Discord as the official platform for all things Overflow.
 
-We already everything setup, it is more a matter of informing the members, and coming up with a plan for better community outreach.
+Most of the administrative setup is done, it is more a matter of informing the members, and coming up with a plan for better community outreach.
