@@ -4,6 +4,11 @@ driver: Qin Guan
 approver: 'NA'
 contributors:
 - Qin Guan
+
+head:
+- - meta
+  - property: og:title
+    content: An open SIG
 ---
 
 # An open SIG
@@ -40,3 +45,5 @@ At GitLab, they saw some benefits listed [here](https://about.gitlab.com/handboo
 * **Everyone** can contribute to it
 
 > Temporarily, full text search is missing from our Handbook, which is a crucial part of getting this to work
+
+<Comments />

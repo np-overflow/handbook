@@ -4,6 +4,11 @@ driver: Qin Guan
 approver: 'NA'
 contributors:
 - Qin Guan
+
+head:
+- - meta
+  - property: og:title
+    content: Moving to Discord
 ---
 
 # Moving to Discord
@@ -34,3 +39,5 @@ This, combined with the fact that members rarely use the chats, **is not helpful
 I recommend using Discord as the official platform for all things Overflow.
 
 Most of the administrative setup is done, it is more a matter of informing the members, and coming up with a plan for better community outreach.
+
+<Comments />
