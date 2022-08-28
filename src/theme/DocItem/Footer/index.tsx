@@ -7,6 +7,7 @@ export default function FooterWrapper(props) {
   return (
     <>
       <Footer {...props} />
+      <br/>
       <Giscus
         repo="np-overflow/handbook"
         repoId="R_kgDOH2CfTw"
