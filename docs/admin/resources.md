@@ -10,7 +10,7 @@
 
 ## Discord
 
-This is an active proposal, please see [here](/proposals/discord.md).
+This is an active proposal, please see [here](/proposals/discord).
 
 ## Microsoft Teams
 

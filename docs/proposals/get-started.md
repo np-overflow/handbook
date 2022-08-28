@@ -1,4 +1,8 @@
-# Proposals
+---
+sidebar_position: 0
+---
+
+# Get started
 
 Proposals are recommended to follow the SBAR format (Situation, Background, Assessment, Recommendation).
 
@@ -9,17 +13,18 @@ In any proposal, the driver is highly recommended to show a POC in the recommend
 A template is provided below:
 
 ```md
----
-status: Pending
-driver: Qin Guan
-approver: 'NA'
-contributors:
-- Qin Guan
----
+# Your proposal
 
-# My amazing proposal
+import { ProposalTable } from './components';
 
-<TheProposalTable />
+<ProposalTable
+  status="pending"
+  driver="Qin Guan"
+  approver="NA"
+  contributors={[
+    'Qin Guan',
+  ]}
+/>
 
 ## Situation
 
