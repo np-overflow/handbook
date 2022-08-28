@@ -1,0 +1,46 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --orange6: hsl(25, 100%, 82.8%);
+  --orange7: hsl(24, 100%, 75.3%);
+  --orange8: hsl(24, 94.5%, 64.3%);
+  --orange9: hsl(24, 94.0%, 50.0%);
+  --orange10: hsl(24, 100%, 46.5%);
+  --orange11: hsl(24, 100%, 37.0%);
+  --orange12: hsl(15, 60.0%, 17.0%);
+
+  --ifm-color-primary: var(--orange9);
+  --ifm-color-primary-dark: var(--orange10);
+  --ifm-color-primary-darker: var(--orange11);
+  --ifm-color-primary-darkest: var(--orange12);
+  --ifm-color-primary-light: var(--orange8);
+  --ifm-color-primary-lighter: var(--orange7);
+  --ifm-color-primary-lightest: var(--orange6);
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --orange6: hsl(24, 88.6%, 19.8%);
+  --orange7: hsl(24, 92.4%, 24.0%);
+  --orange8: hsl(25, 100%, 29.0%);
+  --orange9: hsl(24, 94.0%, 50.0%);
+  --orange10: hsl(24, 100%, 58.5%);
+  --orange11: hsl(24, 100%, 62.2%);
+  --orange12: hsl(24, 97.0%, 93.2%);
+
+  --ifm-color-primary: var(--orange9);
+  --ifm-color-primary-dark: var(--orange8);
+  --ifm-color-primary-darker: var(--orange7);
+  --ifm-color-primary-darkest: var(--orange6);
+  --ifm-color-primary-light: var(--orange10);
+  --ifm-color-primary-lighter: var(--orange11);
+  --ifm-color-primary-lightest: var(--orange12);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
