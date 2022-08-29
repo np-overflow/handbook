@@ -4,6 +4,23 @@
  * work well for content-centric websites.
  */
 
+@import url('https://rsms.me/inter/inter.css');
+
+:root {
+  --ifm-font-family-base: 'Inter var', system-ui, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+@supports (font-variation-settings: normal) {
+  :root {
+    --ifm-font-family-base: 'Inter', system-ui, -apple-system, BlinkMacSystemFont,
+      'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji',
+      'Segoe UI Emoji', 'Segoe UI Symbol';
+  }
+}
+
+
 /* You can override the default Infima variables here. */
 :root {
   --orange6: hsl(25, 100%, 82.8%);
