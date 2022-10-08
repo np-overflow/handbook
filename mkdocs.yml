@@ -1,1 +1,65 @@
-site_name: My Docs
+site_name: Overflow Handbook
+site_url: https://handbook.np-overflow.club
+site_author: Overflow SIG
+copyright: Copyright &copy; Overflow SIG <a href="https://github.com/np-overflow/handbook/blob/main/LICENSE">CC BY-NC-SA 4.0</a>
+
+repo_url: https://github.com/np-overflow/handbook
+repo_name: np-overflow/handbook
+edit_uri: edit/main/docs/
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - javascripts/tablesort.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+
+plugins:
+  - search
+  - social
+  - awesome-pages
+  - glightbox
+  - git-revision-date-localized:
+      enable_creation_date: true
+      enabled: !ENV [ CI, false ]
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
