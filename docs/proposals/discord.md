@@ -1,15 +1,8 @@
 # Moving to Discord
 
-import { ProposalTable } from './components';
-
-<ProposalTable
-  status="pending"
-  driver="Qin Guan"
-  approver="NA"
-  contributors={[
-    'Qin Guan',
-  ]}
-/>
+| Status  | Driver   | Approver | Contributors |
+|---------|----------|----------|--------------|
+| Pending | Qin Guan | NA       | Qin Guan     |
 
 ## Situation
 

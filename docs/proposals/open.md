@@ -1,15 +1,8 @@
 # An open SIG
 
-import { ProposalTable } from './components';
-
-<ProposalTable
-  status="pending"
-  driver="Qin Guan"
-  approver="NA"
-  contributors={[
-    'Qin Guan',
-  ]}
-/>
+| Status  | Driver   | Approver | Contributors |
+|---------|----------|----------|--------------|
+| Pending | Qin Guan | NA       | Qin Guan     |
 
 ## Situation
 
@@ -39,5 +32,3 @@ At GitLab, they saw some benefits listed [here](https://about.gitlab.com/handboo
 * On-boarding is easier if you can find all relevant information spelled out
 * Teamwork is easier if you can read how other parts of the organization work
 * **Everyone** can contribute to it
-
-> Temporarily, full text search is missing from our Handbook, which is a crucial part of getting this to work

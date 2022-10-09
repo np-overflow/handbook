@@ -38,6 +38,8 @@ plugins:
 
 theme:
   name: material
+  logo: images/logo.svg
+  favicon: images/logo.svg
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
