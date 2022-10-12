@@ -29,7 +29,7 @@ Here's a summarized list of your first tasks:
 
 ## Resources
 
-Please refer see [here](/admin/resources) for the resources that Overflow uses.
+Please refer [here](/admin/resources) for the resources that Overflow uses.
 
 ## The people
 
