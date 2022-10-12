@@ -24,8 +24,8 @@ anything that comes up in your mind - there's no harm.
 A common *misconception or worry* when brainstorming is that you might not be familiar enough with the topic to teach
 it, and that's totally natural.
 
-A workshop is as much a learning experience for the teaching team as it as for the
-Overflow members. This is why most workshops are planned at least 2 weeks in advance, so there's ample time for the
+A workshop is as much of a learning experience for the teaching team as it as for the
+Overflow members. This is why most workshops are planned *at least 2 weeks in advance*, so there's ample time for the
 teaching team to familiarize themselves with the content.
 
 The content covered also doesn't have to be complete, or go deep into the topic. Sometimes, a high level overview is
