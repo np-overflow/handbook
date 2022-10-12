@@ -10,6 +10,7 @@ edit_uri: edit/main/docs/
 markdown_extensions:
   - tables
   - admonition
+  - footnotes
   - attr_list
   - md_in_html
   - pymdownx.details
@@ -17,8 +18,12 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.snippets
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
 
 extra_javascript:
   - javascripts/mathjax.js
