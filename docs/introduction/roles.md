@@ -24,7 +24,6 @@ You are expected to be directly involved in the production of all the various ev
   - Weekly workshops
   - Bi-annual bootcamps
   - Major events, i.e. PIOI and ByteHackz
-  - Any other tech related events or products throughout your tenure as HOT
 - Selection of topics to be covered in weekly workshops during current academic semester
 
 ## Operations
