@@ -11,6 +11,8 @@ This page is intended to be a one-stop shop for you to find everything you need.
 If you have any questions, please reach out
 on [Discord](https://discord.com/channels/697450907830321192/705698515678134273) and let us help you!
 
+Meeting notes [here](https://connectnpedu.sharepoint.com/:w:/r/sites/np-overflow/Shared%20Documents/General/%5BSensitive%20EXCO%5D%202022/Meetings/%5B13-10-2022%5D%20WG%20Onboarding.docx?d=waaff682dea7f4c22ab23439ed730913e&csf=1&web=1&e=xboJOJ).
+
 ## Checklist
 
 Here's a summarized list of your first tasks:
