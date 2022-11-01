@@ -15,9 +15,11 @@
 
 * Microsoft Planner
 
-**Source code**
+**Technology**
 
 * [GitHub](https://github.com/np-overflow)
+* CloudFlare
+* Netlify
 
 **Publicity**
 
@@ -72,6 +74,18 @@ You should use SharePoint to store files that are:
 * Advanced access control requirements (e.g. limited to non-IT students)
 * Requires the Microsoft productivity suite (e.g. `.docx`, `.pptx`)
 
-## GitHub
+## Technology
 
-We use GitHub to share source code, and to host our projects.
+### GitHub
+
+We use GitHub to share source code, and to host our projects. Please contact the Head of Tech or P/VP to get access.
+
+### CloudFlare
+
+We use CloudFlare as our DNS, CDN, and static site host. Please contact the P/VP to get access.
+
+### Netlify
+
+At time of writing, we use Netlify to host our Open Graph image generator (see [here](https://github.com/np-overflow/og)). This is due to their better/more mature integration with NextJS compared to CloudFlare Pages. However, when possible, CloudFlare Pages should always be used to host our web content.
+
+Please contact the P/VP to get access.
