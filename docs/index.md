@@ -35,5 +35,5 @@ detailed [here](https://about.gitlab.com/handbook/style-guide/).
 Alternatively,
 
 1. Clone the repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Start the dev server: `mkdocs serve`
+2. Install dependencies: `make`
+3. Start the dev server: `make dev`
