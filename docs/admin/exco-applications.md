@@ -46,7 +46,7 @@ Interviews usually last **20 - 30 mins** and will cover the following:
 
 2. **Personal showcase (10 mins)**
 
-    This is your time to showcase your proudest or most significant projects / achievements.We prefer depth over breath, so it is okay to only showcase just 1 or even 2 projects, but go deeper into the details.
+    This is your time to showcase your proudest or most significant projects / achievements. If you have any relevant experience, it's good to bring that up too! We prefer depth over breath, so it is okay to only showcase just 1 or even 2 projects, but go deeper into the details.
 
     What you showcase does not necessarily have to be related to the role. It also could be an incident or event that you felt you managed exceptionally well (i.e. your soft skills).
 
