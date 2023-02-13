@@ -2,9 +2,11 @@
 
 !!! warning "2023/2024 EXCO APPLICATIONS OPEN NOW!"
 
-    Applications close on ==**15 Feb 2023, 2359hrs**==.
+    Applications close on ==**18 Feb 2023, 2359hrs**==.
 
     Interviews will be held ==**17 - 19 Feb 2023**==, in the morning and afternoon. Please ensure you are free on these dates.
+    
+    If you applied on 18 Feb, you must be free on 19 Feb for the interview.
 
     [Apply now!](https://forms.office.com/r/A40bcJ0Q49){ .md-button .md-button--primary }
 
