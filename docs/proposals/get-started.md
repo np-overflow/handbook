@@ -1,6 +1,6 @@
 # Get started
 
-Proposals are recommended to follow the SBAR format (Situation, Background, Assessment, Recommendation).
+Proposals are recommended to follow the SIR format (Situation, Importance, Recommendation).
 
 Any proposal should have a status, driver, approver, and contributors. The driver is highly recommended to show a POC in
 the recommendation section.
@@ -16,9 +16,7 @@ A template is provided below:
 
 ## Situation
 
-## Background
-
-## Assessment
+## Importance
 
 ## Recommendation
 ```
