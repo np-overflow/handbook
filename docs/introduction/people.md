@@ -2,54 +2,46 @@
 
 ### Lecturers
 
-| Name             | Role        | Notes | 
-|------------------|-------------|-------|
+| Name             | Role        | Notes |
+| ---------------- | ----------- | ----- |
 | Ms Lee Ching Yun | Lecturer IC |       |
 
 ### P/VP
 
-| Name             | Role                | Notes            | 
-|------------------|---------------------|------------------|
-| Qin Guan         | President           | Wannabe engineer | 
-| Lai Wai Hang     | Vice President      |                  |
+| Name                               | Role           | Notes |
+| ---------------------------------- | -------------- | ----- |
+| Arash Nur Iman Mohd Ali Shaifuddin | President      |       |
+| Ang Jeyvian                        | Vice President |       |
 
-### Technology department
+### Tech-Ops department
 
-| Name             | Role                | Notes | 
-|------------------|---------------------|-------|
-| Jimmy Lew        | Head of Tech        |       |
-| Yee Jia Chen     | Tech Lead           |       | 
-| Addision Chua    | Tech Lead           |       |
-| Dalbert Chea     | Tech Lead           |       | 
-| Lucas Sim        | Tech Lead           |       | 
+| Name                             | Role               | Notes |
+| -------------------------------- | ------------------ | ----- |
+| Any Jeyvian                      | Head of Tech       |       |
+| Xu Jiawei                        | Head of Operations |       |
+| Lakshminarayanan Karthik Nagaraj | Tech-Ops Lead      |       |
+| Koh Kai Chun Samuel              | Tech-Ops Lead      |       |
 
 ### Secretariats
 
-| Name             | Role                | Notes | 
-|------------------|---------------------|-------|
-| Cyrus Tan        | Secretary           |       | 
-| Lim Long Teck    | Assistant secretary |       | 
-
-### Operations department
-
-| Name             | Role                | Notes | 
-|------------------|---------------------|-------|
-| Kyler Lee        | Head of Operations  |       | 
-| Isabelle Pak     | Operations Lead     |       | 
-| Goh Shan Lun     | Operations Lead     |       | 
-| Lim Hong Ying    | Operations Lead     |       |
+| Name                  | Role                | Notes |
+| --------------------- | ------------------- | ----- |
+| Huey Ian Reginald Tan | Secretary           |       |
+| Ong Xin Yin           | Assistant secretary |       |
 
 ### Publicity department
 
-| Name             | Role                | Notes | 
-|------------------|---------------------|-------|
-| Ryan Yong        | Publicity Lead      |       | 
+| Name                | Role           | Notes |
+| ------------------- | -------------- | ----- |
+| Kee Bing Heng       | Publicity Lead |       |
+| Koh Kai Chun Samuel | Publicity Lead |       |
 
 ### Student advisors
 
-| Name             | Role                | Notes | 
-|------------------|---------------------|-------|
-| Elsa Lee         | Student Advisor     |       |
-| Benedict Woo     | Student Advisor     |       |
-| Clement Neo      | Student Advisor     |       |
-| Seo Shin Youn    | Student Advisor     |       |
+| Name                | Role            | Notes        |
+| ------------------- | --------------- | ------------ |
+| Qin Guan            | Student Advisor |              |
+| Lai Wai Hang        | Student Advisor |              |
+| Jimmy Lew Kwong Yi  | Student Advisor | never retire |
+| Yong Zong Han Ryan  | Student Advisor |              |
+| Addison Chua Jie Yi | Student Advisor |              |
