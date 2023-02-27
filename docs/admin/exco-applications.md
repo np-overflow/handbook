@@ -1,6 +1,6 @@
 # EXCO Applications
 
-!!! warning "2023/2024 EXCO APPLICATIONS OPEN NOW!"
+<!-- !!! warning "2023/2024 EXCO APPLICATIONS OPEN NOW!"
 
     Applications close on ==**16 Feb 2023, 2359hrs**==.
 
@@ -8,7 +8,7 @@
     
     19 Feb is reserved for very urgent cases.
 
-    [Apply now!](https://forms.office.com/r/A40bcJ0Q49){ .md-button .md-button--primary }
+    [Apply now!](https://forms.office.com/r/A40bcJ0Q49){ .md-button .md-button--primary } -->
 
 At Overflow, we look for people that can contribute to the club in a meaningful way. We want to make sure that you are a good fit for the club, and that the club is a good fit for you.
 
