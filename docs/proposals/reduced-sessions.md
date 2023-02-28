@@ -10,7 +10,7 @@ Currently, Overflow hosts weekly sessions on a different topic each week, this h
 
 ## Importance
 
-The current implmentation is as prior mentioned taxing on both the exco and members.  
+The current implementation is as prior mentioned taxing on both the exco and members.  
 
 This results in a few key consequences:
 
