@@ -1,0 +1,31 @@
+[uwsgi]
+# Socket and pid file location/permission.
+uwsgi-socket = /tmp/dmoj-site.sock
+chmod-socket = 665
+pidfile = /tmp/dmoj-site.pid
+
+# You should create an account dedicated to running dmoj under uwsgi.
+uid = dmojuwsgi
+gid = dmojuwsgi
+
+# Paths.
+chdir = /home/dmoj/site
+pythonpath = /home/dmoj/site
+virtualenv = /home/dmoj/dmojsite
+
+# Details regarding DMOJ application.
+protocol = uwsgi
+master = true
+env = DJANGO_SETTINGS_MODULE=dmoj.settings
+module = dmoj.wsgi:application
+optimize = 1
+
+# Scaling settings. Tune as you like.
+memory-report = true
+cheaper-algo = backlog
+cheaper = 2
+cheaper-initial = 4
+cheaper-step = 0
+cheaper-rss-limit-soft = 201326591
+cheaper-rss-limit-hard = 234881023
+workers = 6

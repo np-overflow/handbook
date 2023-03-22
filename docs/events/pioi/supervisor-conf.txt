@@ -1,0 +1,38 @@
+dmoj@localhost:~$ ls /etc/supervisor/conf.d/
+bridged.conf  celery.conf  site.conf  wsevent.conf
+
+dmoj@localhost:~$ cat /etc/supervisor/conf.d/*
+[program:bridged]
+command=/home/dmoj/dmojsite/bin/python manage.py runbridged
+directory=/home/dmoj/site
+stopsignal=INT
+# You should create a dedicated user for the bridged to run under.
+user=dmojbridged
+group=dmojbridged
+stdout_logfile=/var/log/dmoj/bridged/bridged.stdout.log
+stderr_logfile=/var/log/dmoj/bridged/bridged.stderr.log
+
+[program:celery]
+command=/home/dmoj/dmojsite/bin/celery -A dmoj_celery worker
+directory=/home/dmoj/site
+# You should create a dedicated user for celery to run under.
+user=dmojcelery
+group=dmojcelery
+stdout_logfile=/var/log/dmoj/celery/celery.stdout.log
+stderr_logfile=/var/log/dmoj/celery/celery.stderr.log
+
+[program:site]
+command=/home/dmoj/dmojsite/bin/uwsgi --ini uwsgi.ini
+directory=/home/dmoj/site
+stopsignal=QUIT
+stdout_logfile=/var/log/dmoj/uwsgi/site.stdout.log
+stderr_logfile=/var/log/dmoj/uwsgi/site.stderr.log
+
+[program:wsevent]
+command=/home/dmoj/.nvm/versions/node/v12.22.12/bin/node /home/dmoj/site/websocket/daemon.js
+environment=NODE_PATH="/home/dmoj/site/node_modules"
+# Should create a dedicated user.
+user=dmojwsevent
+group=dmojwsevent
+stdout_logfile=/var/log/dmoj/wsevent/wsevent.stdout.log
+stderr_logfile=/var/log/dmoj/wsevent/wsevent.stderr.log
