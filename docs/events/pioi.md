@@ -116,15 +116,18 @@ Download the two `.img` files from SharePoint and restore them to VMs.
 
     The `supervisord` configurations are below:
 
-    ```bash
-    --8<-- "supervisor-conf.txt"
-    ```
-    
+    ??? info "supervisord configuration files"
+
+        ```
+        --8<-- "docs/events/pioi/supervisor-conf.txt"
+        ```
 
     For the uWSGI service, the user account should be specified in the `uwsgi.ini` configuration file rather than the `supervisord` configuration file.
 
     The `uwsgi.ini` configuration file is as follows:
 
-    ```toml
-    --8<-- "uwsgi-ini.txt"
-    ```
+    ??? info "uwsgi.ini"
+
+        ```toml
+        --8<-- "docs/events/pioi/uwsgi-ini.txt"
+        ```
