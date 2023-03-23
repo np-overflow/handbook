@@ -10,8 +10,8 @@
 
 | Name                               | Role           | Notes |
 | ---------------------------------- | -------------- | ----- |
-| Arash Nur Iman Mohd Ali Shaifuddin | President      |       |
-| Ang Jeyvian                        | Vice President |       |
+| Arash Nur Iman                     | President      |       |
+| Xu Jiawei                          | Vice President |       |
 
 ### Tech-Ops department
 
