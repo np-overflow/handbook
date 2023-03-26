@@ -13,13 +13,15 @@
 
 **Task management**
 
-* Microsoft Planner
+* Notion
 
 **Technology**
 
 * [GitHub](https://github.com/np-overflow)
 * CloudFlare
 * Netlify
+* NameCheap
+* Bitwarden
 
 **Publicity**
 
@@ -61,8 +63,7 @@ These are the Teams channels we have:
 
 ## SharePoint
 
-We use SharePoint sites that are attached to the Microsoft Team's Teams above (i.e each Team has is its own SharePoint
-site).
+We use SharePoint sites that are attached to the Microsoft Team's Teams above (i.e each Team has is its own SharePoint site).
 
 !!! danger "Important"
 
@@ -73,6 +74,17 @@ You should use SharePoint to store files that are:
 * Highly collaborative (e.g. presentations, documents)
 * Advanced access control requirements (e.g. limited to non-IT students)
 * Requires the Microsoft productivity suite (e.g. `.docx`, `.pptx`)
+
+### Access control
+
+As mentioned, the SharePoint site is associated with the `np-overflow` team, and by default, all members of the `np-overflow` team will be able to access all files on the SharePoint site.
+
+While Microsoft Teams interface does not offer access-control capabilities, the associated SharePoint interface can be used to implement these features. The following guidelines should be used:
+
+* In Microsoft Teams, the P/VPs should be owners
+* EXCO members should be associated with the role "NP Overflow EXCO"
+* Work group members should be associated with the role "NP Overflow Work Group"
+* Roles can be created as needed, i.e. certain events require more specific restrictions, but their need should be carefully considered before creation. As much as possible, please aim to limit access ==as little as possible==, and be open with the team.
 
 ## Technology
 
@@ -89,3 +101,16 @@ We use CloudFlare as our DNS, CDN, and static site host. Please contact the P/VP
 At time of writing, we use Netlify to host our Open Graph image generator (see [here](https://github.com/np-overflow/og)). This is due to their better/more mature integration with NextJS compared to CloudFlare Pages. However, when possible, CloudFlare Pages should always be used to host our web content.
 
 Please contact the P/VP to get access.
+
+### NameCheap
+
+NameCheap is the domain registrar for `np-overflow.club`. This is purely historical and we aim to move the registrar to CloudFlare when they begin supporting `.club` TLDs. Please contact the P/VP to get access.
+
+### Bitwarden
+
+Bitwarden is used to store credentials across the team. Because of the limitations of a Bitwarden Organization, the ownership of the organization will be on a rolling basis. At any given time, these people should be in the organization:
+
+* President (i.e. 2023)
+* Ex-President (i.e. 2022)
+
+During the handover process, the Ex-President (i.e. 2022) will be removed, and the President (i.e. 2023) will add the new President (i.e. 2024).
