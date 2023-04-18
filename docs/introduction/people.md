@@ -8,26 +8,26 @@
 
 ### P/VP
 
-| Name                               | Role           | Notes |
-| ---------------------------------- | -------------- | ----- |
-| Arash Nur Iman                     | President      |       |
-| Xu Jiawei                          | Vice President |       |
+| Name           | Role           | Notes |
+| -------------- | -------------- | ----- |
+| Arash Nur Iman | President      |       |
+| Xu Jiawei      | Vice President |       |
 
 ### Tech-Ops department
 
 | Name                             | Role               | Notes |
 | -------------------------------- | ------------------ | ----- |
-| Any Jeyvian                      | Head of Tech       |       |
+| Ang Jeyvian                      | Head of Tech       |       |
 | Xu Jiawei                        | Head of Operations |       |
 | Lakshminarayanan Karthik Nagaraj | Tech-Ops Lead      |       |
 | Koh Kai Chun Samuel              | Tech-Ops Lead      |       |
 
 ### Secretariats
 
-| Name                  | Role                | Notes |
-| --------------------- | ------------------- | ----- |
-| Huey Ian Reginald Tan | Secretary           |       |
-| Ong Xin Yin           | Assistant secretary |       |
+| Name         | Role                | Notes |
+| ------------ | ------------------- | ----- |
+| Reginald Tan | Secretary           |       |
+| Ong Xin Yin  | Assistant secretary |       |
 
 ### Publicity department
 
