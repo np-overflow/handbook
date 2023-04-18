@@ -18,6 +18,7 @@
 **Technology**
 
 * [GitHub](https://github.com/np-overflow)
+    * Renovatebot
 * CloudFlare
 * Netlify
 * NameCheap
@@ -91,6 +92,12 @@ While Microsoft Teams interface does not offer access-control capabilities, the 
 ### GitHub
 
 We use GitHub to share source code, and to host our projects. Please contact the Head of Tech or P/VP to get access.
+
+#### Renovatebot
+
+Renovatebot is used in the GitHub Organization to keep all our dependencies up to date. Please refer to the renovate configuration file in the respective repositories on how it is set up. When a new repository is added, the renovate configuration file should be created by Renovatebot automatically. 
+
+Please put in the effort to keep your dependencies up to date. Thank you :D
 
 ### CloudFlare
 
