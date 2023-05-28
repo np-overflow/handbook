@@ -21,6 +21,7 @@
 | Xu Jiawei                        | Head of Operations |       |
 | Lakshminarayanan Karthik Nagaraj | Tech-Ops Lead      |       |
 | Koh Kai Chun Samuel              | Tech-Ops Lead      |       |
+| Lim Hui Xiang                    | Tech-ops Lead      |       |
 
 ### Secretariats
 
