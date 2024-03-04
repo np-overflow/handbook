@@ -1,0 +1,9 @@
+# Email Addresses
+
+Overflow has several email addresses that can be employed for various purposes. Here's a list of them:
+
+|                             Email Address                             | Purpose                                                                                                                                                                                                                                                                             |
+| :-------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     [np.ict.overflow@gmail.com](mailto:np.ict.overflow@gmail.com)     | The official email account for the Club. Major sites like GitHub and the official website contain this email address. Watch out from time to time for emails to this address, particularly from students asking questions.                                                          |
+|                          \*@np-overflow.club                          | A wildcard email address (e.g., `hello@np-overflow.club`, `javaisthesameasjavascript@gmail.com`) that forwards emails to the official email account (`np.ict.overflow@gmail.com`). This is useful for creating a more professional appearance and can also be used for convenience. |
+| [np-overflow@connect.np.edu.sg](mailto:np-overflow@connect.np.edu.sg) | A mailing list that includes all EXCO members. This is useful for sending emails to all EXCO members at once.                                                                                                                                                                       |
