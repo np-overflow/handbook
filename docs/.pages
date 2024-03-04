@@ -1,6 +1,7 @@
 nav:
-  - introduction
-  - admin
-  - sessions
-  - events
-  - proposals
+
+- introduction
+- admin
+- workshops
+- events
+- proposals
