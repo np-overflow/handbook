@@ -2,7 +2,7 @@
 
 | Status  | Driver             | Approver | Contributors       |
 | ------- | ------------------ | -------- | ------------------ |
-| Pending | Jimmy Lew Kwong Yi | NA       | Jimmy Lew Kwong Yi |
+| Implemented | Jimmy Lew Kwong Yi | NA       | Jimmy Lew Kwong Yi |
 
 ## Situation
 
