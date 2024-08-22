@@ -8,14 +8,12 @@ The Overflow EXCO has a largely flat hierarchy, meaning that everyone is encoura
 - Cares for and manages all departments in Overflow EXCO
 - Assumes the highest level of responsibility in Overflow
 
-## Tech-Ops
+## Technology
 
 - Organises and conducts workshops
   - Determines what needs to be requested for workshops and what needs to be done for workshops
 - Provides and sources for tech expertise in Overflow's activities
 - Picks up and shares new technologies as needed
-- Sources for external opportunities, activities, or speakers for Overflow's activities
-- Conducts and facilitates technical training and advice if needed for competitions
 
 ### Description
 
@@ -27,15 +25,26 @@ You are expected to be directly involved in the production of all the various ev
   - Major events (i.e., PIOI and ByteHackz)
 - Selection of topics to be covered in weekly workshops during current academic semester
 
-Additionally, the operations part of the role involves communicating with various other departments to help plan and enforce certain operations within events. Managing projects revolving Overflow's day-to-day functions would also require skills such as management of delegating duties, flexibility and conversational skills.
-
 Events you may have heard of include but are not limited to
 
 - PIOI
 - ByteHackz
 - CCA Fiesta
 
-## Publicity
+## Operations
+
+### Secretary-Operations
+
+- Takes attendance for all Overflow activities
+- Takes minutes during Overflow meetings
+- Manages financial procedures and assets, such as collation of purchase requests, reimbursements and budgeting, and stock-taking of assets (usually done together with tech team for tech-related assets)
+- Takes care of and organises all Overflow documents
+
+#### Description
+
+You are responsible for communicating with various other departments to help plan and enforce certain operations within events. Managing projects revolving Overflow's day-to-day functions would also require skills such as management of delegating duties, flexibility and conversational skills.
+
+### Publicity
 
 - Maintains and improves Oveflow’s image and outreach
 - Publicises the events and/or activities hosted by Overflow through various channels
@@ -44,19 +53,8 @@ Events you may have heard of include but are not limited to
 - Handles publicity-related operations, documents and collateral (e.g., preparation of publicity collateral for events, liaising with vendors of jackets/t-shirts/name cards)
 - Maintains and/or improves Overflow’s social media accounts and website
 
-### Description
+#### Description
 
-You are responsible for the management of the club’s social media platforms: Instagram and Discord. Your responsibility also lies in the creation of Instagram post, posters and other physical and virtual contents used for publicizing and advertising the weekly workshops, bootcamps, and other important events such as ByteHackz and PIOI. You are required to be constantly active on social media and display your skills of content creation and writing to the best of your ability.
+You are responsible for the management of the club’s social media platforms: Instagram and Discord. Your responsibility also lies in the creation of Instagram post, posters and other physical and virtual contents used for publicizing and advertising the weekly workshops, bootcamps, and other important events such as ByteHackz and PIOI.
 
 You would need to work together with other EXCO members in planning and creation of these publicity materials.
-
-## Secretariat
-
-- Takes attendance for all Overflow activities
-- Takes minutes during Overflow meetings
-- Manages financial procedures and assets, such as collation of purchase requests, reimbursements and budgeting, and stock-taking of assets (usually done together with tech team for tech-related assets)
-- Takes care of and organises all Overflow documents
-
-### Description
-
-You are required to help manage the clubs administrative matters. This includes session attendance, sign-ups, forms, members, reciepts, meeting minutes, and SharePoint. You are also required to actively help out with events such as PIOI, ByteHackz, Open House, CCA Fiesta, and conduct sessions.

@@ -16,50 +16,60 @@ Lecturers are the advisors of Overflow. They provide guidance and support to the
 
 The President and Vice-President(s) are the highest-ranking members of the club. They are responsible for setting the direction of the club and ensuring that the club continues to run smoothly. Because of their high rank, they assume the highest level of responsibility.
 
-| Name           | Role           | Notes |
-| -------------- | -------------- | ----- |
-| Arash Nur Iman | President      |       |
-| Xu Jiawei      | Vice President |       |
-| Ang Jeyvian    | Vice President |       |
+| Name                  | Role           | Notes |
+| --------------------- | -------------- | ----- |
+| Lee Guang Le Jeffrey  | President      |       |
+| Chew Ming Hong, Ethan | Vice President |       |
 
-### Tech-Ops
+### Technology
 
-The tech-ops department is responsible for the technical aspects of the club (including planning workshop content, conducting workshops, maintaining the club's technical infrastructure, etc.) as well as any operational aspects of the club (including requesting for resources). The Head of Tech and Head of Operations govern the department, and Tech-Ops Leads contribute wherever necessary.
+The technology department is responsible for the technical aspects of the club (including planning workshop content, conducting workshops, maintaining the club's technical infrastructure, etc.).
 
-| Name                             | Role               | Notes |
-| -------------------------------- | ------------------ | ----- |
-| Ang Jeyvian                      | Head of Tech       |       |
-| Xu Jiawei                        | Head of Operations |       |
-| Lakshminarayanan Karthik Nagaraj | Tech-Ops Lead      |       |
-| Koh Kai Chun Samuel              | Tech-Ops Lead      |       |
-| Lim Hui Xiang                    | Tech-ops Lead      |       |
+| Name                  | Role            | Notes |
+| --------------------- | --------------- | ----- |
+| Tan Syn Kit           | Head of Tech    |       |
+| Alfred Kang Jing Rui  | Technology Lead |       |
+| Brandon Koh Ziheng    | Technology Lead |       |
+| Darius Koh Kai Keat   | Technology Lead |       |
+| Hoh Jun Gi            | Technology Lead |       |
+| Lee Jia Yu            | Technology Lead |       |
 
-### Secretariats
+### Operations
 
-The secretariat department handle administrative and logistical aspects of the club, including but not limited to taking minutes during meetings, keeping track of finances, creating forms and gathering information from members, and more. The Secretary and Assistant Secretary govern the department.
+The operations department consists of the Secretary-Operations and Publicity departments. It is led by the Head of Operations.
 
-| Name         | Role                | Notes |
-| ------------ | ------------------- | ----- |
-| Reginald Tan | Secretary           |       |
-| Ong Xin Yin  | Assistant Secretary |       |
+| Name              | Role               | Notes |
+| ----------------- | ------------------ | ----- |
+| Tay King Yu Galen | Head of Operations |       |
 
-### Publicity
+#### Secretary-Operations
 
-The publicity department is responsible for promoting the club and its activities. The scope of work includes planning promotion materials (e.g., captions, posters, etc.), managing Overflow's social media accounts, and more. The Publicity Leads govern the department.
+The secretary-operations department handles administrative and logistical aspects of the club, including but not limited to taking minutes during meetings, keeping track of finances, creating forms and gathering information from members, and more.
 
-| Name                | Role           | Notes |
-| ------------------- | -------------- | ----- |
-| Kee Bing Heng       | Publicity Lead |       |
-| Koh Kai Chun Samuel | Publicity Lead |       |
+| Name                   | Role            | Notes |
+| ---------------------- | --------------- | ----- |
+| Brayden Ziyang Saga    | Head of Sec-Ops |       |
+| Danial Nurhakim Razali | Sec-Ops Lead    |       |
+| Yong Yun Kai Louis     | Sec-Ops Lead    |       |
 
-### Student advisors
+#### Publicity
+
+The publicity department is responsible for promoting the club and its activities. The scope of work includes planning promotion materials (e.g., captions, posters, etc.), managing Overflow's social media accounts, and more.
+
+| Name           | Role              | Notes |
+| -------------- | ----------------- | ----- |
+| Sung Yeji      | Head of Publicity |       |
+| Loh Sze Kye    | Publicity Lead    |       |
+| Quek Tsun Yang | Publicity Lead    |       |
+
+### Student Advisors
 
 Student advisors are senior members of the club who provide guidance and support to the EXCO. They do not make decisions for the club, but are a valuable source of advice and experience. They usually work together with higher-ranking members of the club, particularly the P/VP(s) and the lecturers, and give input wherever necessary.
 
-| Name                | Role            | Notes        |
-| ------------------- | --------------- | ------------ |
-| Qin Guan            | Student Advisor |              |
-| Lai Wai Hang        | Student Advisor |              |
-| Jimmy Lew Kwong Yi  | Student Advisor | never retire |
-| Yong Zong Han Ryan  | Student Advisor |              |
-| Addison Chua Jie Yi | Student Advisor |              |
+| Name                | Role            | Notes |
+| ------------------- | --------------- | ----- |
+| Arash Nur Iman      | Student Advisor |       |
+| Xu Jiawei           | Student Advisor |       |
+| Ang Jeyvian         | Student Advisor |       |
+| Kee Bing Heng       | Student Advisor |       |
+| Koh Kai Chun Samuel | Student Advisor |       |
