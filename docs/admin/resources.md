@@ -22,7 +22,7 @@
 
 ## Files
 
-- [SharePoint](https://connectnpedu.sharepoint.com/:f:/r/sites/np-overflow/Shared%20Documents/General?csf=1&web=1&e=gxYuNE): Used as the primary location of all Overflow documents, including planning docs, lesson slides, and admin content. See the [Storing changes in SharePoint](#storing-files-in-sharepoint) section for more details.
+- [SharePoint](https://connectnpedu.sharepoint.com/:f:/r/sites/np-overflow/Shared%20Documents/General): Used as the primary location of all Overflow documents, including planning docs, lesson slides, and admin content. See the [Storing changes in SharePoint](#storing-files-in-sharepoint) section for more details.
 - [Handbook](https://handbook.np-overflow.club): Used as the primary location of noting how things are run within Overflow.
 
 ## Task management
@@ -38,6 +38,7 @@
 - Fly.io: Used to host back-end code or servers.
 - Namecheap: The domain registrar of `np-overflow.club`. Historical, and should be moved to Cloudflare when available and possible in the future.
 - Bitwarden: Used to store credentials across the team. Ownership of the organisation will rotate between the incoming and outgoing Presidents per EXCO batch due to the restrictions imposed by Bitwarden.
+- [Short.io](https://go.np-overflow.club/admin): Used as Overflow's link shortener, and should strictly be used for official Overflow links only.
 
 ## Publicity
 

@@ -28,10 +28,6 @@ We would usually invite the prospective member to provide their details for savi
 - personal email address (_optional_); and
 - phone number.
 
-### Adding to the member database
-
-Once we have their details, we would add the member to our database. This is usually done by a Secretary.
-
 ### Joining our communication channels
 
 We would then invite the member to join our communication channels. This includes our:
