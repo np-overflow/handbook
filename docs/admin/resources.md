@@ -6,27 +6,23 @@
 - Telegram: Used for batch chat groups since 2023 for announcements.
 - Microsoft Teams: Used internally within the EXCO for communication (e.g., meetings) and for some Overflow events.
 
-!!! info
+!!! warning "Important"
 
-    There are several teams created for Overflow work; note which one is current:
-    `NP Overflow EXCO + Workgroup` is meant for use by the EXCO, `Overflow` is meant for all members, and Overflow Exco is deprecated.
+    There are several Teams created for Overflow work.
+
+    **NP Overflow EXCO + Workgroup** is meant for use by the EXCO and contains the SharePoint site that contains all of Overflow's documents, including planning docs, lesson slides, and admin content. Treat the data in this Team as classified to the EXCO and other authorised parties unless otherwise stated.
+
+    The **Overflow** Team is meant for use by the general Overflow members. Post-COVID era, it's not used as much, but if any workshops were to be done virtually (whether a fully online workshop or a hybrid workshop), this Team would be used to have the meeting for the workshops.
 
 - Discord: Used as the primary announcement channel for all Overflow batches. Also used to share workshop resources and to have conversations within Overflow members. Ocassionally used to host workshops or bootcamps.
 
-!!! warning "Help"
-
-    Users with the `EXCO` role on Discord should have access to EXCO channels.
-
 !!! info
 
-    We intend to make use of Discord more.
-    Within the EXCO, in most scenarios, using our Discord server is preferred for discussions.
-
-    See [here](/proposals/discord).
+    We intend to make use of Discord more. Within the EXCO, in most scenarios, using our Discord server is preferred for discussions. See [here](/proposals/discord).
 
 ## Files
 
-- [SharePoint](https://connectnpedu.sharepoint.com/:f:/r/sites/np-overflow/Shared%20Documents/General?csf=1&web=1&e=gxYuNE): Used as the primary location of all Overflow documents, including planning docs, lesson slides, and admin content. See the [Storing changes in SharePoint](#storing-files-in-sharepoint) section for more details.
+- [SharePoint](https://connectnpedu.sharepoint.com/:f:/r/sites/np-overflow/Shared%20Documents/General): Used as the primary location of all Overflow documents, including planning docs, lesson slides, and admin content. See the [Storing changes in SharePoint](#storing-files-in-sharepoint) section for more details.
 - [Handbook](https://handbook.np-overflow.club): Used as the primary location of noting how things are run within Overflow.
 
 ## Task management
@@ -42,6 +38,7 @@
 - Fly.io: Used to host back-end code or servers.
 - Namecheap: The domain registrar of `np-overflow.club`. Historical, and should be moved to Cloudflare when available and possible in the future.
 - Bitwarden: Used to store credentials across the team. Ownership of the organisation will rotate between the incoming and outgoing Presidents per EXCO batch due to the restrictions imposed by Bitwarden.
+- [Short.io](https://go.np-overflow.club/admin): Used as Overflow's link shortener, and should strictly be used for official Overflow links only.
 
 ## Publicity
 
@@ -51,25 +48,14 @@
 
 ## Storing files in SharePoint
 
-We use SharePoint sites that are attached to the Microsoft Team's Teams above (i.e each Team has is its own SharePoint site).
+We use SharePoint sites that are attached to the Teams above (i.e, each Team has is its own SharePoint site).
 
-!!! danger "Important"
+!!! warning "Important"
 
-    Please store files in the `NP Overflow EXCO + Workgroup` SharePoint site.
+    Please store files in the `NP Overflow EXCO + Workgroup` SharePoint site. Treat the data within this site as confidential to the EXCO and other authorised parties unless otherwise stated. Before creating and sharing files, please look through the ["Access control" guidelines](/admin/access-control).
 
-You should use SharePoint to store files that are:
+You should use SharePoint to store files that:
 
-- Highly collaborative (e.g. presentations, documents)
-- Advanced access control requirements (e.g. limited to non-IT students)
-- Requires the Microsoft productivity suite (e.g. `.docx`, `.pptx`)
-
-#### Access control
-
-As mentioned, the SharePoint site is associated with the `np-overflow` team, and by default, all members of the `np-overflow` team will be able to access all files on the SharePoint site.
-
-While Microsoft Teams interface does not offer access-control capabilities, the associated SharePoint interface can be used to implement these features. The following guidelines should be used:
-
-- In Microsoft Teams, the P/VPs should be owners
-- EXCO members should be associated with the role "NP Overflow EXCO"
-- Work group members should be associated with the role "NP Overflow Work Group"
-- Roles can be created as needed, i.e. certain events require more specific restrictions, but their need should be carefully considered before creation. As much as possible, please aim to limit access ==as little as possible==, and be open with the team.
+- Are highly collaborative (e.g., presentations, documents)
+- Require advanced access control requirements (e.g. limited to non-IT students)
+- Require the Microsoft productivity suite (e.g. `.docx`, `.pptx`)

@@ -1,8 +1,8 @@
-# Work Group
+# Workgroup
 
 !!! tip
 
-    This section is for work group members
+    This section is for Workgroup members. Feel free to explore the rest of the documentation regardless of your role!
 
 Welcome to Overflow 🌄! We hope the first meeting was fruitful, and you got to know the EXCO!
 
@@ -18,16 +18,17 @@ Meeting notes [here](https://connectnpedu.sharepoint.com/:w:/r/sites/np-overflow
 Here's a summarized list of your first tasks:
 
 1. **By the end of the week (16 October)**
-    1. Make sure you have access to all the [resources](#resources) you need
-    2. Brainstorm on 3 workshop ideas, and write them
-       down [here](https://connectnpedu.sharepoint.com/:w:/r/sites/np-overflow/Shared%20Documents/General/%5BSensitive%20EXCO%5D%202022/Session%20Materials/Session%20planning.docx?d=w2d2fe1989ba34c9bb05e22775d40ba8f&csf=1&web=1&e=FKp6kw)
-      1. See some tips on brainstorming [here](/admin/pre-sem-meet-ups#brainstorming)
+
+   1. Make sure you have access to all the [resources](#resources) you need
+   2. Brainstorm on 3 workshop ideas, and write them
+      down [here](https://connectnpedu.sharepoint.com/:w:/r/sites/np-overflow/Shared%20Documents/General/%5BSensitive%20EXCO%5D%202022/Session%20Materials/Session%20planning.docx?d=w2d2fe1989ba34c9bb05e22775d40ba8f&csf=1&web=1&e=FKp6kw)
+   3. See some tips on brainstorming [here](/admin/pre-sem-meet-ups#brainstorming)
 
 2. **Familiarize yourself with the people on the roles you've signed up for!**
-    1. Send them a message on Discord/WhatsApp, let them know you're interested in the role and if you have - some related
-       works you've done!
-    2. There are no hard restrictions, i.e. you are encouraged to help out in publicity if you're interested, no matter the
-       role you signed up for
+   1. Send them a message on Discord/WhatsApp, let them know you're interested in the role and if you have - some related
+      works you've done!
+   2. There are no hard restrictions, i.e. you are encouraged to help out in publicity if you're interested, no matter the
+      role you signed up for
 
 ## Resources
 
