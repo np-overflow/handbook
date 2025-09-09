@@ -33,9 +33,7 @@ Events you may have heard of include but are not limited to
 
 ## Operations
 
-### Secretary-Operations
-
-- Takes attendance for all Overflow activities
+- Takes charge of planning logistics needed for events like HackIT or ByteHackz
 - Takes minutes during Overflow meetings
 - Manages financial procedures and assets, such as collation of purchase requests, reimbursements and budgeting, and stock-taking of assets (usually done together with tech team for tech-related assets)
 - Takes care of and organises all Overflow documents
@@ -44,7 +42,7 @@ Events you may have heard of include but are not limited to
 
 You are responsible for communicating with various other departments to help plan and enforce certain operations within events. Managing projects revolving Overflow's day-to-day functions would also require skills such as management of delegating duties, flexibility and conversational skills.
 
-### Publicity
+## Publicity
 
 - Maintains and improves Oveflow’s image and outreach
 - Publicises the events and/or activities hosted by Overflow through various channels
